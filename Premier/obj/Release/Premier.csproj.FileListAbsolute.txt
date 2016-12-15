@@ -1,0 +1,4 @@
+\\campus.enst-bretagne.fr\homes\agirar01\visual studio 2015\Projects\Premier\Premier\bin\Release\Premier.dll
+\\campus.enst-bretagne.fr\homes\agirar01\visual studio 2015\Projects\Premier\Premier\bin\Release\Premier.pdb
+\\campus.enst-bretagne.fr\homes\agirar01\visual studio 2015\Projects\Premier\Premier\obj\Release\Premier.dll
+\\campus.enst-bretagne.fr\homes\agirar01\visual studio 2015\Projects\Premier\Premier\obj\Release\Premier.pdb
